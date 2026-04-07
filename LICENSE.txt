@@ -1,0 +1,20 @@
+Copyright © 2026 [Nhóm 1 SN / Leader VuKimAnh]
+All Rights Reserved.
+Source code này thuộc đồ án nhóm, chỉ được phép sử dụng để học tập và trình bày đồ án.
+Nghiêm cấm:
+- Sử dụng vào mục đích thương mại
+- Dùng làm sản phẩm cá nhân
+- Phân phối, sửa chữa hoặc sao chép mà không có sự đồng ý bằng văn bản của nhóm trưởng.
+Vi phạm sẽ chịu trách nhiệm theo quy định pháp luật.
+DỰ ÁN: GÓC CÀ PHÊ 90S
+Thành viên:
+Vũ Kim Anh – Nhóm trưởng – 24D192047
+Nguyễn Phương Anh (Nam) – Thành viên – 24D192003
+Nguyễn Phương Anh (Nữ) – Thành viên – 24D192045
+Bùi Thị Hoàng Anh – Thành viên – 24D192043
+Bùi Thị Lan Anh – Thành viên – 24D192001
+Dương Thị Hải Anh – Thành viên – 24D192044
+Nguyễn Huy Hoàng Anh – Thành viên – 24D192002
+Nguyễn Tuấn Anh – Thành viên – 24D192004 - Không làm
+Nguyễn Việt Anh – Thành viên – 24D192046 - Không làm
+Nguyễn Ngọc Ánh – Thành viên – 24D192005
